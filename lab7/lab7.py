@@ -1,4 +1,3 @@
-# Импорт необходимых библиотек
 from keras.datasets import mnist
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten
